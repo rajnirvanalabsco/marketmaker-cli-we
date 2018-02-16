@@ -1,0 +1,11 @@
+D:\Projects\marketmaker\marketmaker-cli\marketmaker-cli\bin\Debug\marketmaker-cli.exe.config
+D:\Projects\marketmaker\marketmaker-cli\marketmaker-cli\bin\Debug\marketmaker-cli.exe
+D:\Projects\marketmaker\marketmaker-cli\marketmaker-cli\bin\Debug\marketmaker-cli.pdb
+D:\Projects\marketmaker\marketmaker-cli\marketmaker-cli\obj\Debug\marketmaker-cli.exe
+D:\Projects\marketmaker\marketmaker-cli\marketmaker-cli\obj\Debug\marketmaker-cli.pdb
+C:\Users\lenovoT420\AppData\Roaming\Skype\My Skype Received Files\marketmaker-cli\Code\marketmaker-cli\bin\Debug\marketmaker-cli.exe.config
+C:\Users\lenovoT420\AppData\Roaming\Skype\My Skype Received Files\marketmaker-cli\Code\marketmaker-cli\obj\Debug\marketmaker-cli.exe
+C:\Users\lenovoT420\AppData\Roaming\Skype\My Skype Received Files\marketmaker-cli\Code\marketmaker-cli\obj\Debug\marketmaker-cli.pdb
+C:\Users\lenovoT420\AppData\Roaming\Skype\My Skype Received Files\marketmaker-cli\Code\marketmaker-cli\bin\Debug\marketmaker-cli.exe
+C:\Users\lenovoT420\AppData\Roaming\Skype\My Skype Received Files\marketmaker-cli\Code\marketmaker-cli\bin\Debug\marketmaker-cli.pdb
+C:\Users\lenovoT420\AppData\Roaming\Skype\My Skype Received Files\marketmaker-cli\Code\marketmaker-cli\obj\Debug\marketmaker-cli.csprojResolveAssemblyReference.cache
